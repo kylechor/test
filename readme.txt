@@ -1,4 +1,4 @@
 Git is a version control system.
 Git is free software.
 new added.
-fuck your all.
+中测试，这个是中句子。

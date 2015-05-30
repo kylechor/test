@@ -4,7 +4,10 @@ new added.
 中测试，这个是中句子。
 this line is new.!
 fenzhi guanli
+<<<<<<< Updated upstream
 bug fenzhi
 line 1
 line 3
+=======
+>>>>>>> Stashed changes
 line 2

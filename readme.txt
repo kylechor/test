@@ -5,3 +5,7 @@ new added.
 this line is new.!
 fenzhi guanli
 BUG ISSUS-101
+bug fenzhi
+line 1
+line 3
+line 2
